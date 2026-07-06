@@ -2,8 +2,8 @@
 // ║  YAHAN APNI DETAILS UPDATE KARO     ║
 // ╚══════════════════════════════════════╝
 
-const WHATSAPP_NUMBER = "91XXXXXXXXXX";       // Apna WhatsApp number likho (91 ke saath)
-const RAZORPAY_KEY    = "rzp_test_XXXXXXXX";  // Apni Razorpay Key likho
+const WHATSAPP_NUMBER = "916264628191";       // Apna WhatsApp number likho (91 ke saath)
+const RAZORPAY_KEY    = "rzp_live_TABuqLU1i6JCen";  // Apni Razorpay Key likho
 
 // ── Temporary storage ──
 let currentOrder = {
